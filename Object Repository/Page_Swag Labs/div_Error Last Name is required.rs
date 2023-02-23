@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Error Last Name is required</name>
+   <tag></tag>
+   <elementGuidId>6f9dc272-b281-40a6-9033-2e41651c136c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_info_container']/div/form/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error-message-container.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bfdb53db-62b4-4d51-b716-f92af59a4b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message-container error</value>
+      <webElementGuid>e6dd263e-d5a5-4b94-806a-048e33250176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error: Last Name is required</value>
+      <webElementGuid>b48ca39b-13a2-43c3-ad62-258b345a5a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_info_container&quot;)/div[@class=&quot;checkout_info_wrapper&quot;]/form[1]/div[@class=&quot;checkout_info&quot;]/div[@class=&quot;error-message-container error&quot;]</value>
+      <webElementGuid>cd08be56-6b8f-4163-a041-f33b85bccf61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_info_container']/div/form/div/div[4]</value>
+      <webElementGuid>66e0002b-057b-40f8-bd41-22da0cd9c51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Your Information'])[1]/following::div[7]</value>
+      <webElementGuid>1934ff53-b42f-49ef-b0e2-e1ee4e9b4dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[11]</value>
+      <webElementGuid>0751a8a7-5813-484d-8fb1-bfad03f7af88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>94bfdd7e-6be0-47d2-ba54-517540825b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>bb5604c2-2baf-4c67-8d14-693b92b9decc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Error: Last Name is required' or . = 'Error: Last Name is required')]</value>
+      <webElementGuid>7096ee13-d108-405d-adac-557e13a4cf11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

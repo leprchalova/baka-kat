@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Error Postal Code is required</name>
+   <tag></tag>
+   <elementGuidId>7d3b22cc-d841-49db-9e6e-b09f284ef827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_info_container']/div/form/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error-message-container.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8bc507b5-613a-4e79-86ee-f84a2a534ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message-container error</value>
+      <webElementGuid>b990bddb-52c2-485e-9363-de8ad91c9090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error: Postal Code is required</value>
+      <webElementGuid>5c7dbd5e-f20d-4acb-abf4-d0d63fb8eea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_info_container&quot;)/div[@class=&quot;checkout_info_wrapper&quot;]/form[1]/div[@class=&quot;checkout_info&quot;]/div[@class=&quot;error-message-container error&quot;]</value>
+      <webElementGuid>b44b3f83-2d31-4ce7-aea2-876ed32870f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_info_container']/div/form/div/div[4]</value>
+      <webElementGuid>835f9913-6559-49be-b26e-5eeeb42253f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Your Information'])[1]/following::div[7]</value>
+      <webElementGuid>091918bc-88e7-48bf-91e0-002cef1150f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[11]</value>
+      <webElementGuid>9ca8881e-9655-4653-8c20-4852a870028e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>d83ccbd3-107e-4030-9e16-70c690ef5526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>550a99e0-bd93-4e01-8c5b-df884654340c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Error: Postal Code is required' or . = 'Error: Postal Code is required')]</value>
+      <webElementGuid>f32170ab-531f-4773-b638-9b5900af2ee7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

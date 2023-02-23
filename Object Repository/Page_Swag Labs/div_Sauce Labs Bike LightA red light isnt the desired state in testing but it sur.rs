@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sauce Labs Bike LightA red light isnt the desired state in testing but it sur</name>
+   <tag></tag>
+   <elementGuidId>f6348915-4842-4601-a369-353be0ce78bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inventory_item_container']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.inventory_details_desc_container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ecf7c62-3e48-467f-9c16-1e67e554ea48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_details_desc_container</value>
+      <webElementGuid>9cee36cb-9fd5-411f-b966-1a71514db03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sauce Labs Bike LightA red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Add to cart</value>
+      <webElementGuid>f59fabdb-08b5-4bea-b09e-dc88f8ee9029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inventory_item_container&quot;)/div[@class=&quot;inventory_details&quot;]/div[@class=&quot;inventory_details_container&quot;]/div[@class=&quot;inventory_details_desc_container&quot;]</value>
+      <webElementGuid>e4f7a654-44fa-40f6-841d-c97da306a13f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inventory_item_container']/div/div/div[2]</value>
+      <webElementGuid>2a4155c5-cb7d-4187-9f5b-ef64c3bce689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to products'])[1]/following::div[5]</value>
+      <webElementGuid>00e4afc4-eb48-471f-9851-4d412e38cf46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[10]</value>
+      <webElementGuid>c06bac23-3974-414e-a7c4-0081cfe10feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>4d83ca1a-8453-49e6-9713-b764588ae61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Sauce Labs Bike LightA red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Add to cart&quot;) or . = concat(&quot;Sauce Labs Bike LightA red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Add to cart&quot;))]</value>
+      <webElementGuid>9f49709f-60cc-4e56-bbe0-044e5a42ff80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

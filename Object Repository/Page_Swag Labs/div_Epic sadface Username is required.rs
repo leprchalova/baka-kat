@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Epic sadface Username is required</name>
+   <tag></tag>
+   <elementGuidId>c11aa7af-5be7-4346-bfe0-f86bf726dda9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_button_container']/div/form/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error-message-container.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25b2477e-d7ed-4bac-9acd-5786e82bf10d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message-container error</value>
+      <webElementGuid>451da722-9126-4abe-85d6-226f3e2a0a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Epic sadface: Username is required</value>
+      <webElementGuid>474c55af-ff28-47b9-accb-fb3a8c97e6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]/div[@class=&quot;error-message-container error&quot;]</value>
+      <webElementGuid>bf182d1d-d913-48f8-9376-f86e612fbec9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_button_container']/div/form/div[3]</value>
+      <webElementGuid>b60c7546-4fa4-4264-8ced-79df17a60c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>e98dce27-bd40-422b-b91e-4902cc8aba74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Epic sadface: Username is required' or . = 'Epic sadface: Username is required')]</value>
+      <webElementGuid>5681eb8c-ff0f-4277-80b8-420dc3dd4b2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
